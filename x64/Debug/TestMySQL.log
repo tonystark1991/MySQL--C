@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/12/21 11:26:20。
+     1>项目“F:\C\C学习\数据库操作\TestMysql\TestMySQL.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\TestMySQL.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         TestMySQL.vcxproj -> F:\C\C学习\数据库操作\TestMysql\x64\Debug\TestMySQL.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\TestMySQL.unsuccessfulbuild”。
+         正在对“x64\Debug\TestMySQL.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\C\C学习\数据库操作\TestMysql\TestMySQL.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.18
